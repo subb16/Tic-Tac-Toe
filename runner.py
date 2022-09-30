@@ -144,3 +144,4 @@ while True:
                     ai_turn = False
 
     pygame.display.flip()
+#subhash is an amazing coder
